@@ -18,7 +18,8 @@
 ## Getting Started
  - This assignment uses Visual Studio to obtain data and answer the required questions.
 ## Acknowledgements
- - Visual Studios 
+ - Visual Studios
+ - Jupyter Notebook 
  - Learning Assistants
  - fellow classmates
  - askBCS
